@@ -1,4 +1,5 @@
 {
+  "//": ['START SCRIPT: runs the development server', 'BUILD SCRIPT: runs the production server'],
   "name": "code",
   "version": "1.0.0",
   "private": true,
